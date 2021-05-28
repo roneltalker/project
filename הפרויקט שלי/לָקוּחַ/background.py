@@ -826,6 +826,3 @@ def backgrounds_screen3(category):
             screen.blit(text6, (517, 220))
             screen.blit(text7, (290, 340))
             pygame.display.flip()
-
-
-# cut("C:/Users/IMOE001/Downloads/image17.jpg", "thing")
