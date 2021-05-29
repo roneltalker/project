@@ -1,5 +1,5 @@
 import pygame
-from my_project.client.file import i
+from file import i
 import sys
 from PyQt5.QtWidgets import *
 
